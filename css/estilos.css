@@ -1,0 +1,32 @@
+/* Estilos generales*/
+
+body {
+    background-image: linear-gradient(135deg, #fdfcfb 0% #e2e2e2 100%);
+}
+
+.titulo {
+    font-size: 55px;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+}
+
+.galeria img {
+    box-shadow: 0 8px 10px -4px rgba(0, 0, 0,.6);
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+.materialbox-caption {
+    bottom: 30px;
+    right: 0;
+    width: 90%;
+    height: auto;
+    padding: 10px;
+    margin: auto;
+    background: #000;
+    box-shadow: 5px 5px #fff;
+    font-size: 20px;
+    color: #fff;
+    line-height: 28px;
+
+}
